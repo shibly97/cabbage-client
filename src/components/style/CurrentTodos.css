@@ -1,0 +1,25 @@
+.table-button {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  /* background-color: aqua; */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.table-button:hover {
+  background-color: #dadada;
+  cursor: pointer;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+/*# sourceMappingURL=CurrentTodos.css.map */

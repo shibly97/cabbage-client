@@ -1,0 +1,19 @@
+.todo-add-container {
+  min-height: 50vh;
+  width: 90%;
+  padding: 30px 15px 0px 0px;
+  margin-top: 20px;
+}
+
+.todo-add-container .input-container {
+  margin-bottom: 25px;
+}
+
+.input-message {
+  padding: 20px 0px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #00005a;
+  font-style: italic;
+}
+/*# sourceMappingURL=TodoInput.css.map */

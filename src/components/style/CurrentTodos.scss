@@ -1,0 +1,20 @@
+.todo-table-container{
+    // background-color: blue;
+}
+
+.table-button{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+}
+
+.table-button:hover{
+    background-color: rgb(218, 218, 218);
+    cursor: pointer;
+    transition: 0.3s; 
+}
